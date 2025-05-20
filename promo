@@ -1,6 +1,5 @@
 {
 "metalslug.pack.fcemu":[],
-"com.retro64.emu":[{"name":"MetalSlug Arcade","pkg":"com.retro64.retrogames","title":"MetalSlug Arcade Games(mslug 1,2,3,4,5,6,X)","promoImg":"https://raw.githubusercontent.com/hoanghdtv/promo_art/main/mslug.png","main":true}]
+"com.retro64.emu":[{"name":"MetalSlug Arcade","pkg":"com.retro64.gbaemu2","title":"MetalSlug Arcade Games(mslug 1,2,3,4,5,6,X)","promoImg":"https://raw.githubusercontent.com/hoanghdtv/promo_art/main/mslug.png","main":true}]
 ,"com.retrogames.blockpuzzle":[{"name":"MetalSlug Arcade","pkg":"com.hhteam.n64","title":"MetalSlug Arcade Games(mslug 1,2,3,4,5,6,X)","promoImg":"https://raw.githubusercontent.com/hoanghdtv/promo_art/main/mslug.png","main":true}]
-
 }
