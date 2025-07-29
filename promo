@@ -1,5 +1,8 @@
 {
-"metalslug.pack.fcemu":[],
-"com.retro64.emu":[{"name":"MetalSlug Arcade","pkg":"com.retro64.gbaemu2","title":"MetalSlug Arcade Games(mslug 1,2,3,4,5,6,X)","promoImg":"https://raw.githubusercontent.com/hoanghdtv/promo_art/main/mslug.png","main":true}]
+"metalslug.pack.fcemu":[{"name":"Extreme Car Racing","pkg":"com.TapnFun.ExtremeCarRacing","title":"Drive, Stunt with your funny car","promoImg":"https://raw.githubusercontent.com/hoanghdtv/promo_art/main/car.png","main":true}],
+"com.retro64.retrogames":[{"name":"Extreme Car Racing","pkg":"com.TapnFun.ExtremeCarRacing","title":"Drive, Stunt with your funny car","promoImg":"https://raw.githubusercontent.com/hoanghdtv/promo_art/main/car.png","main":true}],
+"com.retro64.gba2":[{"name":"Extreme Car Racing","pkg":"com.TapnFun.ExtremeCarRacing","title":"Drive, Stunt with your funny car","promoImg":"https://raw.githubusercontent.com/hoanghdtv/promo_art/main/car.png","main":true}],
+"com.retro64.emu":[{"name":"Extreme Car Racing","pkg":"com.TapnFun.ExtremeCarRacing","title":"Drive, Stunt with your funny car","promoImg":"https://raw.githubusercontent.com/hoanghdtv/promo_art/main/car.png","main":true},
+{"name":"MetalSlug Arcade","pkg":"com.retro64.gbaemu2","title":"MetalSlug Arcade Games(mslug 1,2,3,4,5,6,X)","promoImg":"https://raw.githubusercontent.com/hoanghdtv/promo_art/main/mslug.png"}]
 ,"com.retrogames.blockpuzzle":[{"name":"MetalSlug Arcade","pkg":"com.hhteam.n64","title":"MetalSlug Arcade Games(mslug 1,2,3,4,5,6,X)","promoImg":"https://raw.githubusercontent.com/hoanghdtv/promo_art/main/mslug.png","main":true}]
 }
