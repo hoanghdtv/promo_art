@@ -35,7 +35,7 @@
     "com.retro64.emu": [
         {
             "name": "Nintendo DS",
-            "pkg": "com.retro.droid",
+            "pkg": "obdii.trouble.code",
             "title": "Play NintendoDS Games",
             "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/3ds.png"
         },
