@@ -4,16 +4,16 @@
             "name": "Nintendo DS",
             "pkg": "com.retro.droid",
             "title": "Play NintendoDS Games",
-            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/3ds.png",
+            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png",
             "main": true
         }
     ],
     "com.retro64.retrogames": [
         {
             "name": "Nintendo DS",
-            "pkg": "obdii.trouble.code",
+            "pkg": "com.retro.droid",
             "title": "Play NintendoDS Games",
-            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/3ds.png",
+            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png",
             "main": true
         },
         {
@@ -28,16 +28,16 @@
             "name": "Nintendo DS",
             "pkg": "com.retro.droid",
             "title": "Play NintendoDS Games",
-            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/3ds.png",
+            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png",
             "main": true
         }
     ],
     "com.retro64.emu": [
         {
             "name": "Nintendo DS",
-            "pkg": "obdii.trouble.code",
+            "pkg": "com.retro.droid",
             "title": "Play NintendoDS Games",
-            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/3ds.png"
+            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png"
         },
         {
             "name": "Car Racing 3D",
@@ -67,7 +67,7 @@
             "name": "Nintendo DS",
             "pkg": "obdii.trouble.code",
             "title": "Play NintendoDS Games",
-            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/3ds.png",
+            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png",
             "main": true
         }
     ]
