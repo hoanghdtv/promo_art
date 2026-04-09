@@ -62,7 +62,7 @@
             "main": true
         }
     ],
-    "com.hhteam.n64": [
+    "com.hhteam.n642": [
         {
             "name": "Nintendo DS",
             "pkg": "obdii.trouble.code",
