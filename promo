@@ -64,8 +64,8 @@
     ],
     "com.hhteam.n64": [
         {
-            "name": "Nintendo DS",
-            "pkg": "note.dailyanimation.daily",
+            "name": "NDS & PSP",
+            "pkg": "havefun.partyhour.drinkgame",
             "title": "Play NintendoDS Games",
             "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png",
             "main": true
