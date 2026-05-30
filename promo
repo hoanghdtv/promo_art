@@ -65,7 +65,7 @@
     "com.hhteam.n64": [
         {
             "name": "NDS & PSP",
-            "pkg": "havefun.partyhour.drinkgame",
+            "pkg": "com.arcadenix.arcagames2",
             "title": "Play NintendoDS Games",
             "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png",
             "main": true
