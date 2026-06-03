@@ -11,7 +11,7 @@
     "com.retro64.retrogames": [
         {
             "name": "Nintendo DS",
-            "pkg": "com.retro.droid",
+            "pkg": "com.retro.storegaming",
             "title": "Play NintendoDS Games",
             "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png",
             "main": true
@@ -26,7 +26,7 @@
     "com.retro64.gba2": [
         {
             "name": "Nintendo DS",
-            "pkg": "com.retro.droid",
+            "pkg": "com.retro.storegaming",
             "title": "Play NintendoDS Games",
             "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png",
             "main": true
@@ -35,7 +35,7 @@
     "com.retro64.emu": [
         {
             "name": "Nintendo DS",
-            "pkg": "com.retro.droid",
+            "pkg": "com.retro.storegaming",
             "title": "Play NintendoDS Games",
             "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png"
         },
