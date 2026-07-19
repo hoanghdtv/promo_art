@@ -65,9 +65,9 @@
     "com.hhteam.n64": [
         {
             "name": "NDS & PSP",
-            "pkg": "com.arcadenix.arcagames2",
-            "title": "Play NintendoDS Games",
-            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png",
+            "pkg": "tev.dating.helper",
+            "title": "BlockBlast Online",
+            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/blockblast.jpg",
             "main": true
         }
     ]
