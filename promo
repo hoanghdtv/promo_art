@@ -16,6 +16,12 @@
             "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png",
             "main": true
         },
+				{
+            "name": "PS1/PSX Games",
+            "pkg": "com.arcade.psxdroid",
+            "title": "PS1/PSX Games",
+            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/psx.jpg"
+        },
         {
             "name": "Car Racing 3D",
             "pkg": "com.TapnFun.ExtremeCarRacing",
@@ -30,6 +36,12 @@
             "title": "Play NintendoDS Games",
             "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png",
             "main": true
+        },
+		{
+            "name": "PS1/PSX Games",
+            "pkg": "com.arcade.psxdroid",
+            "title": "PS1/PSX Games",
+            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/psx.jpg"
         }
     ],
     "com.retro64.emu": [
@@ -38,6 +50,12 @@
             "pkg": "com.retro.droid",
             "title": "Play NintendoDS Games",
             "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/nds_mario.png"
+        },
+		{
+            "name": "PS1/PSX Games",
+            "pkg": "com.arcade.psxdroid",
+            "title": "PS1/PSX Games",
+            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/psx.jpg"
         },
         {
             "name": "Car Racing 3D",
@@ -64,10 +82,10 @@
     ],
     "com.hhteam.n64": [
         {
-            "name": "BlockBlast Online",
-            "pkg": "tev.dating.helper",
-            "title": "BlockBlast Online",
-            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/blockblast.jpg",
+            "name": "PS1/PSX Games",
+            "pkg": "com.arcade.psxdroid",
+            "title": "PS1/PSX Games",
+            "promoImg": "https:\/\/raw.githubusercontent.com\/hoanghdtv\/promo_art\/main\/psx.jpg",
             "main": true
         }
     ]
